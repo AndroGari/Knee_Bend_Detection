@@ -16,3 +16,5 @@ Exercise description -
 - After a successful rep, the person has to stretch his/her leg straight.
 - No restriction for back angle
 - Consider leg closer to camera as exercised leg 
+
+File Resource: https://colab.research.google.com/drive/1xOJUWfd0GQwpopA6gfyoqU9bS5uDV3ak?usp=share_link
